@@ -1,9 +1,3 @@
-# IPL-WIN-Prediction
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>IPL Win Prediction</title>
 </head>
 <body>
 
